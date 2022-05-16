@@ -1,2 +1,2 @@
-# video-game-react
+# Video-Game-Mariya
 Created with CodeSandbox

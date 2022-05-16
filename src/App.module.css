@@ -1,0 +1,34 @@
+.card_grid {
+  display: grid;
+  width: 40%;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  grid-gap: 20px;
+  margin: 40px auto;
+}
+.heading {
+  color: black;
+  border-style: outset;
+  font-size: 30px;
+  margin: 30px;
+}
+
+.button {
+  border: 2px solid black;
+  background: none;
+  cursor: pointer;
+  padding: 10px 12px;
+  font-family: "Truculenta", sans-serif;
+  font-size: 25px;
+}
+.button:hover {
+  background: rgb(39, 165, 102);
+  color: white;
+}
+
+.heading {
+  color: black;
+  border-style: outset;
+  font-size: 30px;
+  margin: 30px;
+  /* padding-bottom: 70px; */
+}
